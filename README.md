@@ -25,7 +25,7 @@ A aplicação deverá ser um CRUD (Create, read, update and delete), onde o deve
 (Validação client-side: poderá ser usado javascript puro ou alguma biblioteca para validar os campos).
 (Validação server-side: poderá ser validado no back-end através do framework).
 * Os dados deverão persister em algum banco de dados SQL.
-* (Caso não existam migrações de banco de dados no projeto) O SCRIPT de criação das tabelas do banco de dados (caso exista) poderão ser enviados junto ao projeto;
+* (Caso não existam migrações de banco de dados no projeto) O SCRIPT de criação das tabelas do banco de dados poderá ser enviados junto ao projeto, na pasta raiz;
 
 ### Observações e Dicas
 
