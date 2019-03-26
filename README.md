@@ -55,7 +55,7 @@ A aplicação deverá ser um CRUD (Create, read, update and delete), onde o deve
 * Ao finalizar a sua aplicação, faça um git push para seu fork e depois crie um pull request no projeto de origem.
 
 ## Prazo
-*  O prazo para criar pull requests é até o dia 27/10/2018, às 12h.
+*  O prazo para criar pull requests é até o dia 01/04/2019, às 12h.
 
 ### Dê o seu melhor!
 ### Boa prova! 
