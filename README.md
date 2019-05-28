@@ -55,7 +55,7 @@ A aplicação deverá ser um CRUD (Create, read, update and delete), onde o deve
 * Ao finalizar a sua aplicação, faça um git push para seu fork e depois crie um pull request no projeto de origem.
 
 ## Prazo
-*  O prazo para dar o FORK inicia 26/03/2019 às 17hs dar o PULL REQUEST é até o dia 29/03/2019, às 12hs.
+*  O prazo para dar o FORK inicia 28/05/2019 às 08hs dar o PULL REQUEST é até o dia 31/05/2019, às 12hs.
 
 ### Dê o seu melhor!
 ### Boa prova! 
